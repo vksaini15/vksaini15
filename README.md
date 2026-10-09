@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hey, I'm building things 🚀
+
+🎓 First-year Computer Engineering student at TIET, Patiala.
+
+💻 Interested in AI, software development, cybersecurity, and space technology.
+
+🛠️ Learning by building real-world projects and experimenting with new technologies.
+
+🌱 Currently improving my programming and problem-solving skills.
+
+📌 Check out my public repositories to see what I'm working on!
+
+*Always learning. Always building.*
+
 
 <!--
 **vksaini15/vksaini15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
