@@ -10,6 +10,15 @@
 
 📌 Check out my public repositories to see what I'm working on!
 
+# 🎯 Current Goals
+Strengthen my programming and problem-solving skills
+
+Build useful, well-documented projects
+
+Learn from open-source communities and other developers
+
+Explore internship and collaborative project opportunities
+
 *Always learning. Always building.*
 
 
