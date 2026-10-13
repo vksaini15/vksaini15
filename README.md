@@ -1,7 +1,5 @@
 # Hey, I'm building things 🚀
 
-🎓 First-year Computer Engineering student at TIET, Patiala.
-
 💻 Interested in AI, software development, cybersecurity, and space technology.
 
 🛠️ Learning by building real-world projects and experimenting with new technologies.
