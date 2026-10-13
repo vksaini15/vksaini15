@@ -10,7 +10,7 @@
 
 📌 Check out my public repositories to see what I'm working on!
 
-# 🎯 Current Goals
+# Current Goals
 Strengthen my programming and problem-solving skills
 
 Build useful, well-documented projects
